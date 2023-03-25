@@ -142,3 +142,9 @@
     bottom:10px;
     font-size:10px;
 }
+.ok {
+    font-size:16px;
+    position: absolute;
+    left:30px;
+    top:1205px;
+}
