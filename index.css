@@ -70,52 +70,52 @@
     font-size:20px;
     position: absolute;
     left:85px;
-    top:815px;    
+    top:825px;    
 }
 .cc {
     font-size:10px;
     position: absolute;
     left:85px;
-    top:840px;
+    top:860px;
 }
 .cd {
     font-weight:bold;
     font-size:20px;
     position: absolute;
     left:85px;
-    top:905px;
+    top:925px;
 }
 .ce {
     font-size:10px;
     position: absolute;
     left:85px;
-    top:935px;
+    top:955px;
 }
 .cf {
     font-weight:bold;
     font-size:20px;
     position: absolute;
     left:85px;
-    top:1020px;
+    top:1040px;
 }
 .cg {
     font-size:10px;
     position: absolute;
     left:85px;
-    top:1050px;
+    top:1070px;
 }
 .ch {
     font-weight:bold;
     font-size:20px;
     position: absolute;
     left:85px;
-    top:1120px;
+    top:1140px;
 }
 .ci {
     font-size:10px;
     position: absolute;
     left:85px;
-    top:1155px;
+    top:1175px;
 }
 #boy {
     background: blue;
@@ -146,5 +146,5 @@
     font-size:16px;
     position: absolute;
     left:30px;
-    top:1205px;
+    top:1240px;
 }
